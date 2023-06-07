@@ -2,7 +2,7 @@
 ## Hi there 👋
 ## I am Ankita
 
-##### MS in Data Analytics Engineering @Northeastern University | Data Product Intern @EQRx
+##### MS in Data Analytics Engineering @Northeastern University
 
 
 I am a highly enthusiastic, data-driven, and dynamic graduate student from Northeastern University pursuing a Master's in Data Analytics Engineering. I am passionate about learning something new every day. I love to connect with people and learn about their cultures and experiences, which has helped me strengthen my communication and networking skills. My specialties include quick learning skills and problem-solving. So far, I have the following skills under my belt. 
@@ -18,7 +18,7 @@ Data Analysis: EDA, Predictive Analytics, Statistical Modeling, Text Mining, Clu
 
 #### Contact:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yadavankita9800//)       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](yankita9800@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yadavankita9800//)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](yankita9800@gmail.com)  
 
 
 
